@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+form {
+  margin: auto;
+  margin-top: 40vh; /* poussé de la moitié de hauteur de viewport */
+  transform: translateY(-50%); /* -50% en hauteur, tiré de sa propre hauteur */
+  max-width: 480px;
+  border-radius: 10px;
+  border:4px solid #fff;;
+  outline:1px solid #999;
+  padding: 15px;
+  text-align: center;git remote add origin https://github.com/paulemfag/Exo_js_8.git
+  background-color: #e6e1e1;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.6rem;
+}
+input {
+  margin: auto;
+  display: block;
+  width: 290px;
+}
+button {
+  width: 170px;
+  border-radius: 1px;
+  padding: 5px;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.6rem;
+}
